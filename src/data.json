@@ -1,0 +1,178 @@
+[
+  {
+      "id": "cryptopunk0",
+      "isSold": false,
+      "price": 100,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk0.jpg",
+      "description": "Abstract digital punk with vibrant colors and unique features."
+  },
+  {
+      "id": "cryptopunk1",
+      "isSold": false,
+      "price": 100,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk1.jpg",
+      "description": "Futuristic cyber character in pixel art, showcasing abstract elements."
+  },
+  {
+      "id": "cryptopunk2",
+      "isSold": false,
+      "price": 100,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk2.jpg",
+      "description": "Digital collectible with a mix of modern and traditional artistic elements."
+  },
+  {
+      "id": "cryptopunk10",
+      "isSold": false,
+      "price": 100,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk10.jpg",
+      "description": "Colorful and dynamic digital punk with a playful aesthetic."
+  },
+  {
+      "id": "cryptopunk11",
+      "isSold": false,
+      "price": 100,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk11.jpg",
+      "description": "Pixel art character with bold features and a hint of rebellion."
+  },
+  {
+      "id": "cryptopunk14",
+      "isSold": false,
+      "price": 150,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk14.jpg",
+      "description": "Unique digital artwork blending futuristic and organic elements."
+  },
+  {
+      "id": "cryptopunk15",
+      "isSold": false,
+      "price": 80,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk15.jpg",
+      "description": "Digital collectible with a mysterious aura and subtle details."
+  },
+  {
+      "id": "cryptopunk16",
+      "isSold": false,
+      "price": 200,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk16.jpg",
+      "description": "Highly detailed pixel art character exuding a futuristic vibe."
+  },
+  {
+      "id": "cryptopunk17",
+      "isSold": false,
+      "price": 180,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk17.jpg",
+      "description": "Elegant digital collectible with a touch of sophistication and grace."
+  },
+  {
+      "id": "cryptopunk18",
+      "isSold": false,
+      "price": 90,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk18.jpg",
+      "description": "Playful and colorful pixel art character radiating positive energy."
+  },
+  {
+      "id": "cryptopunk19",
+      "isSold": false,
+      "price": 130,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk19.jpg",
+      "description": "Digital punk with a dynamic pose, capturing the essence of movement."
+  },
+  {
+      "id": "cryptopunk20",
+      "isSold": false,
+      "price": 110,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk20.jpg",
+      "description": "Abstract and eye-catching digital collectible with a futuristic twist."
+  },
+  {
+      "id": "cryptopunk21",
+      "isSold": false,
+      "price": 170,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk21.jpg",
+      "description": "Futuristic pixel art character exuding confidence and style."
+  },
+  {
+      "id": "cryptopunk22",
+      "isSold": false,
+      "price": 160,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk22.jpg",
+      "description": "Digital punk with a blend of retro and modern visual elements."
+  },
+  {
+      "id": "cryptopunk23",
+      "isSold": false,
+      "price": 140,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk23.jpg",
+      "description": "Vibrant and energetic pixel art character with a futuristic touch."
+  },
+  {
+      "id": "cryptopunk24",
+      "isSold": false,
+      "price": 250,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk24.jpg",
+      "description": "Unique and detailed digital collectible with intricate design elements."
+  },
+  {
+      "id": "cryptopunk25",
+      "isSold": false,
+      "price": 300,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk25.jpg",
+      "description": "High-value pixel art character featuring premium details and style."
+  },
+  {
+      "id": "cryptopunk100",
+      "isSold": false,
+      "price": 120,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk100.jpg",
+      "description": "Digital collectible with a blend of classic and contemporary elements."
+  },
+  {
+      "id": "cryptopunk101",
+      "isSold": false,
+      "price": 150,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk101.jpg",
+      "description": "Futuristic pixel art character with a captivating and mysterious presence."
+  },
+  {
+      "id": "cryptopunk102",
+      "isSold": false,
+      "price": 80,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk102.jpg",
+      "description": "Playful and vibrant digital punk with a touch of retro charm."
+  },
+  {
+      "id": "cryptopunk103",
+      "isSold": false,
+      "price": 200,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk103.jpg",
+      "description": "Detailed and sophisticated pixel art character radiating elegance."
+  },
+  {
+      "id": "cryptopunk104",
+      "isSold": false,
+      "price": 180,
+      "isAdded": false,
+      "image": "./nft-images/cryptopunk104.jpg",
+      "description": "Elegant and mysterious digital collectible with a touch of sophistication."
+  }
+]

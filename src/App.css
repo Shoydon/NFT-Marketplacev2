@@ -1,0 +1,10 @@
+.nft-marketplace{
+  margin-left: 10px;
+}
+
+.nft-list, .cart-list{
+  border: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
